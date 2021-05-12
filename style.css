@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #1c1e21;
+}
+.logo img {
+  height: 106px;
+  margin-top: 180px;
+  margin-left: 430px;
+}
+.descricao {
+  color: #fff;
+  font-family: Helvetica, sans-serif;
+  max-width: 450px;
+  font-size: 25px;
+  margin-left: 460px;
+}
